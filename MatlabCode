@@ -1,0 +1,19 @@
+% Matrices are multidimensional arrays
+% The ; denotes that we are going to a new row
+A = [1, 2, 3; 4, 5, 6; 7, 8, 9; 10, 11, 12]
+
+% Vector is an array with 1 column
+% Initialize a vector
+v = [1;2;3]
+
+% Get the dimensions of matrix A where m = rows and n = columns
+[m, n] = size(A)
+
+% You could also store in this way
+dim_A = size(A)
+
+% Get the dimensions of vector A
+dim_v = size(v)
+
+%Now let's index in 2nd row and 3rd column of matrix A
+A_23 = A(2, 3)
