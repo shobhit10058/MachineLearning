@@ -1,2 +1,2 @@
-# MachineLearning
-This consists of study material related to machine learning. (Credits to Coursera)
+## MachineLearning
+This consists of **study material** related to **machine learning**. *(Credits to Coursera)*
