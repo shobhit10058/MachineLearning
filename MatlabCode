@@ -1,4 +1,4 @@
-'''
+```
 % Matrices are multidimensional arrays
 % The ; denotes that we are going to a new row
 A = [1, 2, 3; 4, 5, 6; 7, 8, 9; 10, 11, 12]
@@ -18,4 +18,4 @@ dim_v = size(v)
 
 %Now let's index in 2nd row and 3rd column of matrix A
 A_23 = A(2, 3)
-'''
+```
