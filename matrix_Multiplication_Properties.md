@@ -1,11 +1,11 @@
 #Properties of Matrix Multiplication
 
-. Matrix Multiplication is not Commutative
-. Matrix Multiplication is Associative
+* Matrix Multiplication is not Commutative
+* Matrix Multiplication is Associative
 
-* Matlab Code*
+*Matlab Code*
 
-```
+``` Matlab
 A = [1, 2; 4, 5]
 B = [1, 1; 0, 2]
 
